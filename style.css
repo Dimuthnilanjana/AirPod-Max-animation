@@ -1,5 +1,4 @@
-/* author: https://codepen.io/yudizsolutions/pen/PoLJQOa
-Yudiz Solutions Limited */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap');
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -113,6 +112,3 @@ p{color: #FFF; font-family: Montserrat; font-size: 18px; font-style: normal; fon
     .slider-images > img.active{top: 50%;left: 5%;}
     .slider-images > img.previous{top: 100%;}   
 }
-
-
-
